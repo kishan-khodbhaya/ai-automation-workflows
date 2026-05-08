@@ -103,8 +103,6 @@ Both connect to the same Google Calendar and MySQL backend.
 - Appointment confirmations sent within seconds of conversation completion
 - Consistent responses regardless of volume or time of day
 
----
-
 <!-- ## Demo -->
 
 <!-- Add WhatsApp conversation screenshot here -->
