@@ -138,8 +138,6 @@ Caller is interested in joining the company.
 - Appointment confirmation sent within seconds of call ending
 - Zero missed follow-ups — all bookings logged and tracked
 
----
-
 <!-- ## Demo -->
 
 <!-- Add call flow diagram here -->
