@@ -91,7 +91,6 @@ Candidate sends resume via WhatsApp
 - Consistent criteria applied to every candidate regardless of volume
 - Qualified candidates entered the interview pipeline without HR intervention
 
----
 
 <!-- ## Demo -->
 
