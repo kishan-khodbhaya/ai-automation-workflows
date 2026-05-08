@@ -105,7 +105,7 @@ Both connect to the same Google Calendar and MySQL backend.
 
 ---
 
-## Demo
+<!-- ## Demo -->
 
 <!-- Add WhatsApp conversation screenshot here -->
 <!-- Add n8n workflow screenshot here -->
