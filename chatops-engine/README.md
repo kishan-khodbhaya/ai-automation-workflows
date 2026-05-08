@@ -154,7 +154,6 @@ Role is determined by the Mattermost user group at request time.
 - Eliminated context switching between GitHub, terminal, and documentation
 - Role-based system prevented unauthorized access to sensitive infrastructure
 
----
 
 <!-- ## Demo -->
 
