@@ -120,7 +120,6 @@ Each blog section (header, main 1, main 2, footer) is drafted by a separate AI n
 - Consistent publishing cadence maintained without manual writing effort
 - Owner retains full editorial control through the Telegram approval flow
 
----
 
 <!-- ## Demo -->
 
