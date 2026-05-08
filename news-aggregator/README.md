@@ -72,8 +72,6 @@ Newspaper PDF uploaded / received
 - Eliminated manual newspaper scanning for relevant content
 - Relevant information extracted and delivered in seconds after PDF input
 
----
-
 <!-- ## Demo -->
 
 <!-- Add sample Telegram output screenshot here -->
